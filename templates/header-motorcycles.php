@@ -81,6 +81,7 @@
 			</ul>
 			</li>
 			
+			<!--
 			<li class="dropdown">
 			<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 			Велосипеди<b class="caret"></b>
@@ -97,18 +98,14 @@
 			<li><a href="../bicycles/utuse.php">Utuse</a></li>
 			</ul>
 			</li>
-			
+      -->
+
+			<li><a href="http://www.benellibike.com/eng/index.php">Велосипеди</a></li>
 			<li><a href="../about-benelli.php">За Benelli</a></li>
 			<li><a href="../network.php">Дилъри</a></li>
 			<li><a href="../contacts.php">За контакти</a></li>
 			
 		</ul>
-			<div class="pull-right hidden-tablet">
-			<ul class="nav">
-				<li><a href="../index.php"><img src="../resources/images/icon_bg.png" alt="Български език"/></a></li>
-				<li><a href="../en/index.php"><img src="../resources/images/icon_eng.png" alt="English language"/></a></li>
-			</ul>
-			</div>
 		</div>
 	</div>
 </div>
