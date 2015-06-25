@@ -76,9 +76,7 @@
 			<li><a href="scooters/pepe-50.php">Pepe 50 4T-2T</a></li>
 			<li><a href="scooters/pepe-classic.php">Pepe 50 Classic 2T</a></li>
 			<li><a href="scooters/quattronovex.php">Quattronovex 50</a></li>
-			<li><a href="scooters/x125-150.php">X 125/150</a></li>
 			<li><a href="scooters/caffenero-125-150.php">Caffenero 125/150</a></li>
-			<li><a href="scooters/caffenero-250.php">Caffenero 250</a></li>
 			<li><a href="scooters/macis-125-150.php">Macis 125/150</a></li>
 			</ul>
 			</li>
