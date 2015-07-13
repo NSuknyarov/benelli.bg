@@ -81,26 +81,18 @@
 			</ul>
 			</li>
 			
-			<!--
 			<li class="dropdown">
 			<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 			Велосипеди<b class="caret"></b>
 			</a>
 			<ul class="dropdown-menu">
-			<li><a href="../bicycles/catalog-bicycles.php">Всички модели</a></li>
+			<li><a href="http://www.benellibike.com/eng/index.php" target="_blank">Всички модели</a></li>
 			<li class="divider"></li>
-			<li><a href="../bicycles/achle.php">Achle 29"</a></li>
-			<li><a href="../bicycles/alpan.php">Alpan 27.5"</a></li>
-			<li><a href="../bicycles/classica.php">Classica 26"/28"</a></li>
-			<li><a href="../bicycles/letizia.php">Letizia N3/N8/T7</a></li>
-			<li><a href="../bicycles/rebella.php">Rebella N7/N8</a></li>
-			<li><a href="../bicycles/taitle.php">Taitle</a></li>
-			<li><a href="../bicycles/utuse.php">Utuse</a></li>
+			<li><a href="../bicycles/city-link-compact.php">City Link Compact</a></li>
 			</ul>
 			</li>
-      -->
-
-			<li><a href="http://www.benellibike.com/eng/index.php">Велосипеди</a></li>
+			
+			<!-- <li><a href="http://www.benellibike.com/eng/index.php">Велосипеди</a></li> -->
 			<li><a href="../about-benelli.php">За Benelli</a></li>
 			<li><a href="../network.php">Дилъри</a></li>
 			<li><a href="../contacts.php">За контакти</a></li>
