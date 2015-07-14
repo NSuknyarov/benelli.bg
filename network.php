@@ -73,7 +73,7 @@
 <div class="span3"><strong>МОНТАНА</strong>
 <div>ул. Панайот Хитов 31</div>
 <div>МК МОТОР ЕООД</div>
-<div>0887 485 247</div>
+<div>0888 808 172</div>
 <div></div>
 </div>
 <div class="span3"><strong>ПОПОВО</strong>
