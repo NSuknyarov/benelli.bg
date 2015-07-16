@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="bg">
   <head>
     <title>BN 600 R мотоциклет | benelli.bg</title>
@@ -52,34 +52,18 @@
 		<h5>MAX. TORQUE</h5>
 		<p>52 Nm (5,3 kgm) @ 10500 rpm</p>
 		<p>
-			BN600R is the latest evolution of Benelli Q.J., the new four-cylinder bike created to satisfy the desire for motorcycles and developed day 
-			by day to become a real jewel for performance and quality. The heart of the BN 600R is its innovative inline four-cylinder 4 stroke engine,
-			liquid cooled, double overhead camshaft and 4 valves for each cylinder. The engine, with electronic injection and four ø 38 mm throttle bodies, 
-			delivers a power of 82 hp (60 kW) @ 11.500 rpm and max. torque of 52 Nm @ 10.500 rpm. Wet sump lubrication, wet clutch, 6 speeds gearbox 
-			and final chain drive.
+			The BN 600R recently hit the world market and gained instant acclaim as being a great value performing naked sports bike. Test rides across the world confirmed it is a true performer out on twisty roads, track rides and yet refined enough for a city commute.
 		</p>
 		<p>
-			Without compromise, BN 600R is the bike agile and easy to handle for excellence, the motorcycles dedicated to pure enjoyment. 
-			Ride this new four-cylinder is only a pleasure, especially when you are in the curves, where fun becomes an obligation. The sound of BN 600R 
-			is unmistakably unique, genuine Benelli.
+			Beautifully engineered and Italian designed, the BN 600R comes with premium componentry including Marzocchi ø 50 mm front forks, Sachs adjustable rear suspension, Brembo calipers, fully braided steel brake lines and Metzler Sportec M5 tyres, making it a very enviable package in its class.
 		</p>
 		<p>
-			The naked frame is made of an upfront steel trestle and an aluminium structure at the rear suspension link, a guarantee of reliability under
-			all circumstances. Suspension system is made of an upside-down Marzocchi front fork ø 50mm, as in TNT and TRE-K models. In the rear we find an 
-			aluminium alloy swingarm with rear shock absorber Sachs adjustable in extension hydraulic and spring preload linked directly to the frame in order 
-			to follow also uneven pavements with total ease.
-
+			The smooth power delivery of the BN 600R is contributed to optimum mapping of the 60kW Benelli designed and built 600cc inline 4 cylinder DOHC engine with a closely matched six-speed gearbox. The powertrain is mounted to a stylish and light weight trellis frame which together acts as a stressed member for the chassis, further improving its rigidity.
 		</p>
 		<p>
-			Top quality braking system with Brembo front ø 320 mm twin floating disk and radial callipers and rear ø 240 mm single disk with double piston calliper.
-			Aluminium alloy 17’’ rims with 120/70 and 180/55 tyres, which ensure safety even in the most difficult situations, and 15L fuel tank.
+			The BN 600R is available in white and black color.
 		</p>
-		<p>
-			BN 600R is presented in the colours white, black and red. 
-		</p>
-		<p class="text-green" style="font-size:x-large;">Цена: 13300лв.</p>
-		<div class="fb-like" data-href="http://www.benelli.bg/bn-600r.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
-		<div class="g-plusone" data-size="medium" data-href="http://www.benelli.bg/bn-600r.php"></div>
+		<p class="text-green" style="font-size:x-large;">Цена: 14180лв.</p>
 	<script>
 	document.getElementById('links').onclick = function (event) {
     event = event || window.event;
