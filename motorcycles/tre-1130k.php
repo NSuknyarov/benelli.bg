@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="bg">
   <head>
     <title>Tre 1130 K мотоциклет | benelli.bg</title>
@@ -58,23 +58,23 @@
 		<h5>MAX. TORQUE</h5>
 		<p>112 Nm (11.4 kgm) @ 5000 rpm</p>
 		<p>
-			Indefatigable traveller with a sporting, enjoyable nature. Tre-K 1130 is surely the crosstourer capable to combine comfort 
+			Indefatigable traveller with a sporting, enjoyable nature. Tre-K 1130 is surely the crosstourer capable to combine comfort
 			and riding pleasure with an aggressive soul and great power, as only a few bikes can.
 		</p>
 		<p>
-			The engine of Tre-K 1130 is the classic and highly appreciated in line three cylinder of the Pesaro make. 
-			The power and torque are respectively of  123,4 hp (92 kW) @ 9000 rpm and of 112 Nm (11,4 kgm) @ 5000 rpm. 
-			Wet sump lubrication, electronic injection, double overhead camshaft, 4 valves per cylinder, hydraulic command clutch, 
+			The engine of Tre-K 1130 is the classic and highly appreciated in line three cylinder of the Pesaro make.
+			The power and torque are respectively of  123,4 hp (92 kW) @ 9000 rpm and of 112 Nm (11,4 kgm) @ 5000 rpm.
+			Wet sump lubrication, electronic injection, double overhead camshaft, 4 valves per cylinder, hydraulic command clutch,
 			6 speed gearbox: it is the business card of a modern and reliable engine system.
 		</p>
 		<p>
 			The frame of Tre-k 1130 is mixed, with the front part made of a trestle steel and adjoining aluminium alloy cast to create
-			a true sporting frame system. Front hydraulic 50 mm suspension and adjustable hydraulic single shock absorber at the rear. 
+			a true sporting frame system. Front hydraulic 50 mm suspension and adjustable hydraulic single shock absorber at the rear.
 			High quality perfect for all tastes, suitable to different weights and pavements.
 		</p>
 		<p>
-			On the front wheel there are two 320 mm discs with Brembo 4 piston calipers and at the rear one 240 mm disc and a double 
-			piston caliper. The 17” wheels are equipped with wide-sectioned front tyres 120/70-ZR17 and 180/55-ZR17 at the rear 
+			On the front wheel there are two 320 mm discs with Brembo 4 piston calipers and at the rear one 240 mm disc and a double
+			piston caliper. The 17” wheels are equipped with wide-sectioned front tyres 120/70-ZR17 and 180/55-ZR17 at the rear
 			(possible use of 190/50) to ensure the highest sports performances.
 		</p>
 		<p>
@@ -86,12 +86,10 @@
 			racing filler cap in ergal, motorbike covers and rigid and semi-rigid panniers.
 		</p>
 		<p>
-			Tre-K 1130 is presented in two colours, white and grey/silver. Available at all Benelli's Dealers. The 899 version will 
+			Tre-K 1130 is presented in two colours, white and grey/silver. Available at all Benelli's Dealers. The 899 version will
 			be available only for a restricted number of markets.
 		</p>
-		<p class="text-green" style="font-size:x-large;">Цена: 25250лв.</p>
-		<div class="fb-like" data-href="http://www.benelli.bg/tre-1130k.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
-		<div class="g-plusone" data-size="medium" data-href="http://www.benelli.bg/tre-1130k.php"></div>
+		<p class="text-green" style="font-size:x-large;">Цена: 25900лв.</p>
 	<script>
 	document.getElementById('links').onclick = function (event) {
     event = event || window.event;

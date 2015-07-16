@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="bg">
   <head>
     <title>TNT 899 мотоциклет | benelli.bg</title>
@@ -62,12 +62,12 @@
 		</p>
 		<p>
 			The frame is made of a trestle steel front and adjoining aluminium alloy cast, which gives TNT 899 an even more sporting
-			attitude for guaranteed fun, which is the avowed aim of the Pesaro make. The strong point of this bike is the excellent 
-			parts quality. Front suspension : on the front wheel a Marzocchi 50 mm upside-down fork, a guarantee of stability, with 
+			attitude for guaranteed fun, which is the avowed aim of the Pesaro make. The strong point of this bike is the excellent
+			parts quality. Front suspension : on the front wheel a Marzocchi 50 mm upside-down fork, a guarantee of stability, with
 			Brembo brake calipers and wave disc 320 mm. At the rear there is a wave disc 240 mm.
 		</p>
 		<p>
-			TNT 899 boasts truly unique accessories: carbon muffler, front and rear carbon mudguards, carbon belly pans, 
+			TNT 899 boasts truly unique accessories: carbon muffler, front and rear carbon mudguards, carbon belly pans,
 			carbon chain casing, adjustable brake/clutch levers in ergal, handlebar ends in ergal, dry clutch kit, frame sliders,
 			racing tank filler, carbon single-seat tail, motorbike covers and semi-rigid panniers.
 		</p>
@@ -75,9 +75,7 @@
 			Besides the new colour, TNT 899 is released also in white combined with red frame. TNT 899 will be available at Benelli
 			Dealers starting from February 2013.
 		</p>
-		<p class="text-green" style="font-size:x-large;">Цена: 23300лв.</p>
-    	<div class="fb-like" data-href="http://www.benelli.bg/tornado-naked-899.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
-		<div class="g-plusone" data-size="medium" data-href="http://www.benelli.bg/tornado-naked-899.php"></div>
+		<p class="text-green" style="font-size:x-large;">Цена: 23900лв.</p>
 	<script>
 	document.getElementById('links').onclick = function (event) {
     event = event || window.event;

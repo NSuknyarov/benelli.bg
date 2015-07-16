@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="bg">
   <head>
     <title>Tre 1130 K Amazonas мотоциклет | benelli.bg</title>
@@ -59,13 +59,13 @@
 		<p>112 Nm (11.4 kgm) @ 5000 rpm</p>
 		<p>
 			Adventure and  desire  for  freedom. Emotions  which  you  feel  as  you  test  and experience Tre-K Amazonas.
-			Now even more unique thanks to the new colour “military green” with titanium frame.  The job made to improve 
+			Now even more unique thanks to the new colour “military green” with titanium frame.  The job made to improve
 			the stability and the power supply has given great results allowing to conquer and satisfy the most demanding riders.
 			Tre-K Amazonas, thanks to performance and riding pleasure, is becoming a great protagonist of the tourer sports bikes market segment.
 		</p>
 		<p>
-			Refined build. The damping system, fork and mono shock absorber of the Amazonas, has allowed to lower the seat height 
-			for an improved bike control and for a comfy riding even on the most uneven pavements. The seat height is  now of 
+			Refined build. The damping system, fork and mono shock absorber of the Amazonas, has allowed to lower the seat height
+			for an improved bike control and for a comfy riding even on the most uneven pavements. The seat height is  now of
 			865 mm for a more agile vehicle through the bends and at low revs.
 		</p>
 		<p>
@@ -83,9 +83,7 @@
 			Tre-K Amazonas is presented in white and yellow and is available at all Benelli Dealers. The bike boasts accessories such as:
 			Tom Tom navigation system, frame sliders, racing filler cap in ergal, rigid and semi-rigid panniers and bike cover.
 		</p>
-		<p class="text-green" style="font-size:x-large;">Цена: 27250лв.</p>
-		<div class="fb-like" data-href="http://www.benelli.bg/tre-1130k-amazonas.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
-		<div class="g-plusone" data-size="medium" data-href="http://www.benelli.bg/tre-1130k-amazonas.php"></div>
+		<p class="text-green" style="font-size:x-large;">Цена: 27900лв.</p>
 	<script>
 	document.getElementById('links').onclick = function (event) {
     event = event || window.event;

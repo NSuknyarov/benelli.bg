@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="bg">
   <head>
     <title>TNT 1130 R мотоциклет | benelli.bg</title>
@@ -67,7 +67,7 @@
 		</p>
 		<p>
 			TNT R chassis makes a difference too: frame is made up of a trestle steel front and adjoining rear aluminium alloy cast.
-			The shock absorbers are the best available on the market for racing use: the Marzocchi upside-down fork 50mm fully 
+			The shock absorbers are the best available on the market for racing use: the Marzocchi upside-down fork 50mm fully
 			adjustable and the ZF Sachs rear shock, also fully adjustable, to increase the performance of the rear suspension and
 			allow TNT R to express all its riding power.
 		</p>
@@ -77,20 +77,18 @@
 			alloy rims.
 		</p>
 		<p>
-			The braking system is up the performances of TNT R: the two front wave discs 320 mm are matched with the Brembo 
-			radial calipers, emblem of absolute efficiency, lightness and power, operated by a Brembo radial pump. At the rear 
-			there is a wave disc 240 mm with twin piston Brembo brake caliper. The wheel base is a real racing feature: 1.443 mm, 
-			which means agility in  the mixed terrain, quickness through the bends, bags of emotions under any condition. 
-			The dry weight is of only 205 Kgs. Besides the new colour, TNT R is released also in white combined with red frame, 
+			The braking system is up the performances of TNT R: the two front wave discs 320 mm are matched with the Brembo
+			radial calipers, emblem of absolute efficiency, lightness and power, operated by a Brembo radial pump. At the rear
+			there is a wave disc 240 mm with twin piston Brembo brake caliper. The wheel base is a real racing feature: 1.443 mm,
+			which means agility in  the mixed terrain, quickness through the bends, bags of emotions under any condition.
+			The dry weight is of only 205 Kgs. Besides the new colour, TNT R is released also in white combined with red frame,
 			elegant and undisputably sporty at the same time.
 		</p>
 		<p>
 			TNT R has truly unique accessories, such as: carbon muffler, handlebar ends in ergal, frame sliders, racing tank filler,
 			carbon single-seat tail, motorbike covers and semi-rigid panniers.
 		</p>
-		<p class="text-green" style="font-size:x-large;">Цена: 29200лв.</p>
-		<div class="fb-like" data-href="http://www.benelli.bg/tornado-naked-1130r.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
-		<div class="g-plusone" data-size="medium" data-href="http://www.benelli.bg/tornado-naked-1130r.php"></div>
+		<p class="text-green" style="font-size:x-large;">Цена: 29900лв.</p>
 	<script>
 	document.getElementById('links').onclick = function (event) {
     event = event || window.event;
